@@ -1,0 +1,8 @@
+h1 {font-size: 250%;
+   color:coral;
+}
+h1 {border-style: double;
+   border-color: aqua;
+   border-width: 6px;}
+#ima1 {margin-left: 20%;
+       width: 60%;}
